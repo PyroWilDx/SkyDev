@@ -1,0 +1,33 @@
+name: SkyblockPlugin
+version: 1.0
+author: PyroWilDx
+main: fr.pyrowildx.skyblockplugin.Main
+api-version: 1.16
+commands:
+  shop:
+    description: Ouvrir le shop
+    permission: shop.use
+  sell:
+    description: Vendre
+    permission: sell.use
+  warp:
+    description: TP to a warp
+    permission: warp.use
+  sethome:
+    description: Set home
+    permission: sethome.use
+  home:
+    description: TP to home
+    permission: home.use
+  is:
+    description: Island commands
+    permission: is.use
+  fly:
+    description: Fly
+    permission: fly.use
+  boosts:
+    description: Show boosts
+    permission: boosts.use
+  jobs:
+    description: Show jobs info
+    permission: jobs.use
