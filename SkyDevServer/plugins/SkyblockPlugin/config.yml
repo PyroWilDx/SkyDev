@@ -1,0 +1,218 @@
+sellChests:
+  uuids:
+  - 1105c947-209c-453c-b229-d622e073127a
+  1105c947-209c-453c-b229-d622e073127a:
+    locations:
+    - ==: org.bukkit.Location
+      world: world_the_end
+      x: 269.0
+      y: 0.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+    - ==: org.bukkit.Location
+      world: world
+      x: -54.0
+      y: 82.0
+      z: 44.0
+      pitch: 0.0
+      yaw: 0.0
+    - ==: org.bukkit.Location
+      world: world
+      x: -7.0
+      y: 102.0
+      z: 57.0
+      pitch: 0.0
+      yaw: 0.0
+    - ==: org.bukkit.Location
+      world: world
+      x: -8.0
+      y: 2.0
+      z: -25.0
+      pitch: 0.0
+      yaw: 0.0
+    - ==: org.bukkit.Location
+      world: world
+      x: 19.0
+      y: 98.0
+      z: -8.0
+      pitch: 0.0
+      yaw: 0.0
+    - ==: org.bukkit.Location
+      world: world
+      x: 19.0
+      y: 99.0
+      z: -19.0
+      pitch: 0.0
+      yaw: 0.0
+    - ==: org.bukkit.Location
+      world: world
+      x: 11.0
+      y: 89.0
+      z: 8.0
+      pitch: 0.0
+      yaw: 0.0
+1105c947-209c-453c-b229-d622e073127a:
+  islandExp: 306620
+  money: 13475487
+  agriculteurLevel: 48
+  chasseurLevel: 52
+  bucheronLevel: 58
+  mineurLevel: 48
+  agriculteurExp: 164
+  chasseurExp: 1432
+  bucheronExp: 904
+  mineurExp: 912
+  home:
+    ==: org.bukkit.Location
+    world: world
+    x: 17.14765095704367
+    y: 159.0
+    z: 10.236336102449396
+    pitch: 28.839188
+    yaw: -11.095485
+  isHome:
+    ==: org.bukkit.Location
+    world: world
+    x: 0.5
+    y: 100.0
+    z: 0.5
+    pitch: 0.0
+    yaw: 0.0
+  strength: true
+  speed: true
+  fly: true
+  haste: true
+  resistance: true
+  spawnersName:
+  - §eCow Spawner
+  - §eCow Spawner
+  - §eCow Spawner
+  - §eCow Spawner
+  - §eCow Spawner
+  - §eCow Spawner
+  - §eCow Spawner
+  - §eCow Spawner
+  - §eRabbit Spawner
+  - §eRabbit Spawner
+  - §eRabbit Spawner
+  - §eRabbit Spawner
+  - §eRabbit Spawner
+  - §eRabbit Spawner
+  - §eRabbit Spawner
+  - §eRabbit Spawner
+  spawnersLocation:
+  - ==: org.bukkit.Location
+    world: world
+    x: -38.0
+    y: 109.0
+    z: 16.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -37.0
+    y: 109.0
+    z: 17.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -38.0
+    y: 109.0
+    z: 20.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -37.0
+    y: 109.0
+    z: 21.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -38.0
+    y: 109.0
+    z: 6.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -37.0
+    y: 109.0
+    z: 5.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -38.0
+    y: 109.0
+    z: 2.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -37.0
+    y: 109.0
+    z: 1.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -46.0
+    y: 109.0
+    z: 6.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -45.0
+    y: 109.0
+    z: 5.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -46.0
+    y: 109.0
+    z: 2.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -45.0
+    y: 109.0
+    z: 1.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -46.0
+    y: 109.0
+    z: 16.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -45.0
+    y: 109.0
+    z: 17.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -46.0
+    y: 109.0
+    z: 20.0
+    pitch: 0.0
+    yaw: 0.0
+  - ==: org.bukkit.Location
+    world: world
+    x: -45.0
+    y: 109.0
+    z: 21.0
+    pitch: 0.0
+    yaw: 0.0
+  ratioLoto: -960000
+  deaths: 51

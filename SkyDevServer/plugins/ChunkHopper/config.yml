@@ -1,0 +1,119 @@
+##ChunkHopper's display name and lores
+prefix: "&a&lHopper de Farm"
+lore:
+  - "&7Après l'avoir placé, clic gauche sur"
+  - "&7le Hopper de Farm pour filtrer des items"
+  -
+##Set the duration for picking up drops based on seconds
+pickup-delay: 0
+
+##Pickup effects
+pickup-effect: true
+pickup-sound: false
+
+##What defines here will be the hopper limit in the server per player (except for OP players), even if they have chunkhopper.limit.21, if the limit is 20 then they still cant place it.
+hopper-limit: 1000
+
+#You server's currency
+currency: '$'
+
+##Set to false if you don't have ShopGUIPlus plugin
+shop-gui-plus: false
+
+##Set to false if you don't want to use this features
+#Player's can use this feature if they have a chunkhopper.autosell permission
+auto-sell: false
+#Player's can use this feature if they have a chunkhopper.autokill permission
+auto-kill: false
+
+##GUI TITLES
+hopper-menu: "&a&lHopper de Farm"
+hopper-filtering-menu: "&8Menu de Filtrage"
+player-list-menu: "&a&lHopper de Farm"
+hopper-list-menu: "&a&lHopper de Farm"
+
+##Message section, edit it to your liking!
+messages:
+  no-permission: "&4&l[!] &cYou have no permission to execute this command"
+  invalid-player: "&4&l[!] &cThat player is either offline or doesn't exist"
+  invalid-arguments: "&4&l[!] &cInvalid arguments!"
+  invalid-command: "&4&l[!] &cInvalid command"
+  in-game-command: "&4&l[!] &4In-game command only!"
+  give: "&a&l[!] &aYou have given %amount% Chunk Hopper to %player%"
+  received: ""
+  invalid-amount: "&4&l[!] &cInvalid amount!"
+  reload: "&a&l[!] &aConfiguration has been reloaded"
+  place: "&aVous avez placé un Hopper de Farm !"
+  break: "&cVous avez cassé un Hopper de Farm !"
+  break-others: ""
+  bypass-on: "&a&l[!] &aYou can now manipulate other players chunk hoppers"
+  bypass-off: "&4&l[!] &cYou can no longer manipulate other players chunk hoppers"
+  bypass-reminder: "&a&l[!] &a/hopper bypass to manipulate %owner%'s chunk hoppers"
+  remove-item: "&cVeuillez retirer tous les items dans le Hopper de Farm avant de le casser !"
+  deny-place: "&cIl ya déjà un Hopper de Farm dans ce chunk !"
+  withdraw: "&a&l[!]&a You have withdrawn %total% from your chunk hopper sales"
+
+##Available items for filtering
+Collections:
+  - CACTUS
+  - SUGAR_CANE
+  - ROTTEN_FLESH
+  - BONE
+  - GUNPOWDER
+  - STRING
+  - SPIDER_EYE
+  - ENDER_PEARL
+  - SLIME_BALL
+  - BLAZE_ROD
+  - MAGMA_CREAM
+  - GHAST_TEAR
+  - LEATHER
+  - RABBIT_HIDE
+  - RABBIT_FOOT
+  - FEATHER
+  - EGG
+  - ARROW
+  - POPPY
+  - PORKCHOP
+  - BEEF
+  - COOKED_CHICKEN
+  - CHICKEN
+  - COOKED_BEEF
+  - COOKED_PORKCHOP
+  - MUTTON
+  - COOKED_MUTTON
+  - APPLE
+  - IRON_INGOT
+  - GOLD_INGOT
+  - COAL
+  - LAPIS_LAZULI
+  - INK_SAC
+  - DIAMOND
+  - EMERALD
+  - QUARTZ
+  - REDSTONE
+  - GOLD_NUGGET
+  - STONE
+  - COBBLESTONE
+  - GOLD_ORE
+  - IRON_ORE
+  - EMERALD_BLOCK
+  - DIAMOND_BLOCK
+  - REDSTONE_BLOCK
+  - OAK_LOG
+  - BIRCH_LOG
+  - SPRUCE_LOG
+  - JUNGLE_LOG
+  - DARK_OAAK_LOG
+  - ACACIA_LOG
+
+Entities:
+  - CREEPER
+  - ZOMBIE
+  - SKELETON
+  - COW
+  - PIG
+  - SHEEP
+  - CHICKEN
+  - SPIDER
+  - HUSK
